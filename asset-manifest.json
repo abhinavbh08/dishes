@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abhinavbh08.github.io/dishes/static/css/main.17bf6f3d.css",
-    "main.js": "/abhinavbh08.github.io/dishes/static/js/main.940a4824.js",
-    "static/js/787.7bd5d182.chunk.js": "/abhinavbh08.github.io/dishes/static/js/787.7bd5d182.chunk.js",
-    "index.html": "/abhinavbh08.github.io/dishes/index.html",
-    "main.17bf6f3d.css.map": "/abhinavbh08.github.io/dishes/static/css/main.17bf6f3d.css.map",
-    "main.940a4824.js.map": "/abhinavbh08.github.io/dishes/static/js/main.940a4824.js.map",
-    "787.7bd5d182.chunk.js.map": "/abhinavbh08.github.io/dishes/static/js/787.7bd5d182.chunk.js.map"
+    "main.css": "/dishes/static/css/main.17bf6f3d.css",
+    "main.js": "/dishes/static/js/main.65dba450.js",
+    "static/js/787.7bd5d182.chunk.js": "/dishes/static/js/787.7bd5d182.chunk.js",
+    "index.html": "/dishes/index.html",
+    "main.17bf6f3d.css.map": "/dishes/static/css/main.17bf6f3d.css.map",
+    "main.65dba450.js.map": "/dishes/static/js/main.65dba450.js.map",
+    "787.7bd5d182.chunk.js.map": "/dishes/static/js/787.7bd5d182.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17bf6f3d.css",
-    "static/js/main.940a4824.js"
+    "static/js/main.65dba450.js"
   ]
 }
